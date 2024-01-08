@@ -1,0 +1,1 @@
+call waitress-serve --host=localhost --port=8000 app:app

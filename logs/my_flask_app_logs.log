@@ -1,0 +1,225 @@
+
+C:\inetpub\wwwroot\FlaskApp>call waitress-serve --host=localhost --port=8000 app:app 
+INFO:waitress:Serving on http://[::1]:8000
+INFO:waitress:Serving on http://127.0.0.1:8000
+try this
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8']
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8']
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8']
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8']
+Terminate batch job (Y/N)? 
+C:\inetpub\wwwroot\FlaskApp>call waitress-serve --host=localhost --port=8000 app:app 
+INFO:waitress:Serving on http://[::1]:8000
+INFO:waitress:Serving on http://127.0.0.1:8000
+try this
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8']
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06']
+Terminate batch job (Y/N)? 
+C:\inetpub\wwwroot\FlaskApp>call waitress-serve --host=localhost --port=8000 app:app 
+INFO:waitress:Serving on http://[::1]:8000
+INFO:waitress:Serving on http://127.0.0.1:8000
+try this
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06']
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06']
+Terminate batch job (Y/N)? 
+C:\inetpub\wwwroot\FlaskApp>call waitress-serve --host=localhost --port=8000 app:app 
+INFO:waitress:Serving on http://[::1]:8000
+INFO:waitress:Serving on http://127.0.0.1:8000
+try this
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06', 'amrutha08']
+Executing SQL Query: 
+            UPDATE amrutha08.dbo.sampletable
+            SET Change = ?,
+                Change_Notes = ?,
+                Color1 = ?,
+                Wire_Label1 = ?,
+                OTB1 = ?,
+                OPoint1 = ?,
+                DTB1 = ?,
+                DPoint1 = ?,
+                Color2 = ?,
+                Wire_Label2 = ?,
+                OTB2 = ?,
+                OPoint2 = ?,
+                DTB2 = ?,
+                DPoint2 = ?,
+                Color3 = ?,
+                Wire_Label3 = ?,
+                OTB3 = ?,
+                OPoint3 = ?,
+                DTB3 = ?,
+                DPoint3 = ?,
+                Color4 = ?,
+                Wire_Label4 = ?,
+                OTB4 = ?,
+                OPoint4 = ?,
+                DTB4 = ?,
+                DPoint4 = ?,
+                Color5 = ?,
+                Wire_Label5 = ?,
+                OTB5 = ?,
+                OPoint5 = ?,
+                DTB5 = ?,
+                DPoint5 = ?,
+                Color6 = ?,
+                Wire_Label6 = ?,
+                OTB6 = ?,
+                OPoint6 = ?,
+                DTB6 = ?,
+                DPoint6 = ?,
+                Color7 = ?,
+                Wire_Label7 = ?,
+                OTB7 = ?,
+                OPoint7 = ?,
+                DTB7 = ?,
+                DPoint7 = ?
+            WHERE Cable_Tag = ?
+        
+Parameters: ['change', 'jan04 changes', 'BK', 'D21422C1', 'TA1', '1', '1D2142', '1', 'R', 'D21422C2', 'TA1', '2', '1D2142', '2', 'BU', 'D21422C3', 'TA1', '3', '1D2142', '3', 'O', 'D21422CN', 'TA1', '4', '1D2142', '4', 'c5', 'nan', 'nan', 'nan', '1D2142', 'nan', 'nan', 'nan', 'nan', 'nan', '1D2142', 'nan', 'nan', 'nan', 'nan', 'nan', '1D2142', 'nan', 'D2142 CT21']
+Terminate batch job (Y/N)? 
+C:\inetpub\wwwroot\FlaskApp>call waitress-serve --host=localhost --port=8000 app:app 
+INFO:waitress:Serving on http://[::1]:8000
+INFO:waitress:Serving on http://127.0.0.1:8000
+try this
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06', 'amrutha08']
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06', 'amrutha08', 'amrutha_jan05_01']
+Executing SQL Query: 
+            UPDATE amrutha_jan05_01.dbo.sampletable
+            SET Change = ?,
+                Change_Notes = ?,
+                Color1 = ?,
+                Wire_Label1 = ?,
+                OTB1 = ?,
+                OPoint1 = ?,
+                DTB1 = ?,
+                DPoint1 = ?,
+                Color2 = ?,
+                Wire_Label2 = ?,
+                OTB2 = ?,
+                OPoint2 = ?,
+                DTB2 = ?,
+                DPoint2 = ?,
+                Color3 = ?,
+                Wire_Label3 = ?,
+                OTB3 = ?,
+                OPoint3 = ?,
+                DTB3 = ?,
+                DPoint3 = ?,
+                Color4 = ?,
+                Wire_Label4 = ?,
+                OTB4 = ?,
+                OPoint4 = ?,
+                DTB4 = ?,
+                DPoint4 = ?,
+                Color5 = ?,
+                Wire_Label5 = ?,
+                OTB5 = ?,
+                OPoint5 = ?,
+                DTB5 = ?,
+                DPoint5 = ?,
+                Color6 = ?,
+                Wire_Label6 = ?,
+                OTB6 = ?,
+                OPoint6 = ?,
+                DTB6 = ?,
+                DPoint6 = ?,
+                Color7 = ?,
+                Wire_Label7 = ?,
+                OTB7 = ?,
+                OPoint7 = ?,
+                DTB7 = ?,
+                DPoint7 = ?
+            WHERE Cable_Tag = ?
+        
+Parameters: ['change', 'Jan 5 changes', 'BK', 'D21422C1', 'TA1', '1', '1D2142', '1', 'R', 'D21422C2', 'TA1', '2', '1D2142', '2', 'BU', 'D21422C3', 'TA1', '3', '1D2142', '3', 'A', 'D21422CN', 'TA1', '4', '1D2142', '4', 'c5', 'nan', 'nan', 'nan', '1D2142', 'nan', 'nan', 'nan', 'nan', 'nan', '1D2142', 'nan', 'nan', 'nan', 'nan', 'nan', '1D2142', 'nan', 'D2142 CT21']
+Terminate batch job (Y/N)? 
+C:\inetpub\wwwroot\FlaskApp>call waitress-serve --host=localhost --port=8000 app:app 
+INFO:waitress:Serving on http://[::1]:8000
+INFO:waitress:Serving on http://127.0.0.1:8000
+try this
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06', 'amrutha08', 'amrutha_jan05_01']
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06', 'amrutha08', 'amrutha_jan05_01', 'amrutha_jan05_02']
+Executing SQL Query: 
+            UPDATE amrutha_jan05_02.dbo.sampletable
+            SET Change = ?,
+                Change_Notes = ?,
+                Color1 = ?,
+                Wire_Label1 = ?,
+                OTB1 = ?,
+                OPoint1 = ?,
+                DTB1 = ?,
+                DPoint1 = ?,
+                Color2 = ?,
+                Wire_Label2 = ?,
+                OTB2 = ?,
+                OPoint2 = ?,
+                DTB2 = ?,
+                DPoint2 = ?,
+                Color3 = ?,
+                Wire_Label3 = ?,
+                OTB3 = ?,
+                OPoint3 = ?,
+                DTB3 = ?,
+                DPoint3 = ?,
+                Color4 = ?,
+                Wire_Label4 = ?,
+                OTB4 = ?,
+                OPoint4 = ?,
+                DTB4 = ?,
+                DPoint4 = ?,
+                Color5 = ?,
+                Wire_Label5 = ?,
+                OTB5 = ?,
+                OPoint5 = ?,
+                DTB5 = ?,
+                DPoint5 = ?,
+                Color6 = ?,
+                Wire_Label6 = ?,
+                OTB6 = ?,
+                OPoint6 = ?,
+                DTB6 = ?,
+                DPoint6 = ?,
+                Color7 = ?,
+                Wire_Label7 = ?,
+                OTB7 = ?,
+                OPoint7 = ?,
+                DTB7 = ?,
+                DPoint7 = ?
+            WHERE Cable_Tag = ?
+        
+Parameters: ['change', 'Jan 5 changes', 'BK', 'D21422C1', 'TA1', '1', '1D2142', '1', 'R', 'D21422C2', 'TA1', '2', '1D2142', '2', 'BU', 'D21422C3', 'TA1', '3', '1D2142', '3', 'O', 'D21422CN', 'TA1', '4', '1D2142', '4', 'c5', 'w5', 'nan', 'nan', '1D2142', 'nan', 'nan', 'nan', 'nan', 'nan', '1D2142', 'nan', 'nan', 'nan', 'nan', 'nan', '1D2142', 'nan', 'D2142 CT21']
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06', 'amrutha08', 'amrutha_jan05_01', 'amrutha_jan05_02']
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06', 'amrutha08', 'amrutha_jan05_01', 'amrutha_jan05_02']
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06', 'amrutha08', 'amrutha_jan05_01', 'amrutha_jan05_02']
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06', 'amrutha08', 'amrutha_jan05_01', 'amrutha_jan05_02']
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06', 'amrutha08', 'amrutha_jan05_01', 'amrutha_jan05_02']
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06', 'amrutha08', 'amrutha_jan05_01', 'amrutha_jan05_02']
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06', 'amrutha08', 'amrutha_jan05_01', 'amrutha_jan05_02']
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06', 'amrutha08', 'amrutha_jan05_01', 'amrutha_jan05_02']
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06', 'amrutha08', 'amrutha_jan05_01', 'amrutha_jan05_02', 'j_welch']
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06', 'amrutha08', 'amrutha_jan05_01', 'amrutha_jan05_02', 'j_welch']
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06', 'amrutha08', 'amrutha_jan05_01', 'amrutha_jan05_02', 'j_welch']
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06', 'amrutha08', 'amrutha_jan05_01', 'amrutha_jan05_02', 'j_welch', 'amrutha_jan5_6']
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06', 'amrutha08', 'amrutha_jan05_01', 'amrutha_jan05_02', 'j_welch', 'amrutha_jan5_6']
+Terminate batch job (Y/N)? 
+C:\inetpub\wwwroot\FlaskApp>call waitress-serve --host=localhost --port=8000 app:app 
+INFO:waitress:Serving on http://[::1]:8000
+INFO:waitress:Serving on http://127.0.0.1:8000
+try this
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06', 'amrutha08', 'amrutha_jan05_01', 'amrutha_jan05_02', 'j_welch', 'amrutha_jan5_6', 'amrutha_jan5_7']
+Terminate batch job (Y/N)? 
+C:\inetpub\wwwroot\FlaskApp>call waitress-serve --host=localhost --port=8000 app:app 
+INFO:waitress:Serving on http://[::1]:8000
+INFO:waitress:Serving on http://127.0.0.1:8000
+try this
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06', 'amrutha08', 'amrutha_jan05_01', 'amrutha_jan05_02', 'j_welch', 'amrutha_jan5_6', 'amrutha_jan5_7', 'amrutha_jan5_9']
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06', 'amrutha08', 'amrutha_jan05_01', 'amrutha_jan05_02', 'j_welch', 'amrutha_jan5_6', 'amrutha_jan5_7', 'amrutha_jan5_9']
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06', 'amrutha08', 'amrutha_jan05_01', 'amrutha_jan05_02', 'j_welch', 'amrutha_jan5_6', 'amrutha_jan5_7', 'amrutha_jan5_9']
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06', 'amrutha08', 'amrutha_jan05_01', 'amrutha_jan05_02', 'j_welch', 'amrutha_jan5_6', 'amrutha_jan5_7', 'amrutha_jan5_9']
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06', 'amrutha08', 'amrutha_jan05_01', 'amrutha_jan05_02', 'j_welch', 'amrutha_jan5_6', 'amrutha_jan5_7', 'amrutha_jan5_9']
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06', 'amrutha08', 'amrutha_jan05_01', 'amrutha_jan05_02', 'j_welch', 'amrutha_jan5_6', 'amrutha_jan5_7', 'amrutha_jan5_9']
+['master', 'tempdb', 'model', 'msdb', 'amrutha_dec22_03', 'amrutha_dec22_04', 'amrutha_dec22_05', 'amrutha_dec22_06', 'amrutha_dec22_07', 'amrutha_dec22_09', 'amrutha_dec26_01', 'amrutha_dec26_02', 'amrutha_dec26_03', 'amrutha_dec27_01', 'amrutha_dec27_02', 'amrutha_dec29_01', 'amrutha_jan02_08', 'amrutha_jan03_01', 'amrutha_jan03_02', 'amrutha_jan03_04', 'amrutha_jan03_05', 'amrutha_jan03_08', 'amrutha_jan04_01', 'amrutha_jan4_8', 'amrutha_jan04_06', 'amrutha08', 'amrutha_jan05_01', 'amrutha_jan05_02', 'j_welch', 'amrutha_jan5_6', 'amrutha_jan5_7', 'amrutha_jan5_9', 'amrutha_jan5_10']
+Terminate batch job (Y/N)? 
+C:\inetpub\wwwroot\FlaskApp>call waitress-serve --host=localhost --port=8000 app:app 
+INFO:waitress:Serving on http://[::1]:8000
+INFO:waitress:Serving on http://127.0.0.1:8000
